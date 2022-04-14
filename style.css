@@ -6,7 +6,11 @@ box-sizing: border-box;
 }
 body
 {
+<<<<<<< HEAD
 background-image: url(picha.jpg);
+=======
+background-image: url(image.jpg);
+>>>>>>> 98a5bc87f2b6933ff56691640439ac5500e3f95d
 background-size: cover;
 background-position: center;
 font-family: sans-serif;
